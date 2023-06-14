@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://beacons.ai/JorgeDeTeixeira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeTeixeira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeTeixeira&layout=compact&langs_count=16&theme=merko">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeTeixeira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeTeixeira&layout=compact&langs_count=16&theme=great-gatsby">
 </div>
  
 <div style="display: inline_block"><br>
