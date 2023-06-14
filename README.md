@@ -1,8 +1,12 @@
-### Hi there 👋
+### Olá, Sou Jorge Teixeira!
 
+<div>
+  <a href="https://beacons.ai/JorgeDeTeixeira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeTeixeira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeTeixeira&layout=compact&langs_count=16&theme=merko">
+</div>
+  
 <!--
-**JorgeDeTeixeira/JorgeDeTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
