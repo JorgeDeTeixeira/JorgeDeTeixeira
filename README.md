@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeTeixeira&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
+
 ## 🛠 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
