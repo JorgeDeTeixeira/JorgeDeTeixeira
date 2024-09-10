@@ -1,29 +1,65 @@
-# Olá, Sou Jorge Teixeira!
+<h1 align="left">Olá, Sou Jorge Teixeira</h1>
 
-## 🚀 Sobre mim
+###
 
-🎓 Sou um entusiasta da tecnologia com uma paixão por programação e desenvolvimento de software. Estou sempre em busca de novos desafios e aprendizado contínuo.
+<h4 align="left">🚀 Sobre Mim</h4>
 
-## 📊 Estatísticas
+<p align="left">
+  Sou desenvolvedor de software com experiência em Java, Node.js e AWS. Tenho paixão por criar soluções eficientes, escaláveis e robustas. Atualmente, estou focado em projetos de backend e APIs RESTful, buscando sempre implementar as melhores práticas de clean code e arquitetura de software.
+</p>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeTeixeira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeTeixeira&layout=compact&langs_count=6&theme=algolia"/>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeDeTeixeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="166" alt="languages graph" /> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDeTeixeira&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
+###
 
-## 🛠 Tecnologias e Ferramentas
+<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+</div>
 
-## 📫 Como me encontrar
+###
 
-<div>
-  <a href="https://www.linkedin.com/in/jorge-teixeira-04985b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/jorge.teixeira0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jorgedeteixeirademelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C14438?style=flat-square&logo=gmail&logoColor=white"></a>
+<h3 align="left">🚀 Projetos em Destaque</h3>
+
+- [Controle de Estoque API](https://github.com/JorgeDeTeixeira/estoque-api.git) - API para gerenciamento de estoques com autenticação de usuários.
+
+###
+
+<h3 align="left">📫 Entre em Contato</h3>
+
+<p align="left">Sinta-se à vontade para me contatar através de:</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jorge-teixeira-04985b237/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/jorgeteixeira.11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:jorgedeteixeirademelo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
